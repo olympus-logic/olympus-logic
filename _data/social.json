@@ -1,33 +1,20 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "link": "https://github.com/olympus-logic",
     "image": "images/social/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
-  },
-  {
-      "name": "Facebook",
-      "link": "https://facebook.com",
-      "image": "images/social/facebook.svg"
-  },
-  {
       "name": "Email",
-      "link": "mailto:ekyllserif@example.com ",
+      "link": "mailto:olympus.logic.global@gmail.com ",
       "image": "images/social/email.svg"
   },
   {
-      "name": "Instagram",
-      "link": "https://instagram.com",
-      "image": "images/social/instagram.svg"
-  },
-  {
-      "name": "Discord",
-      "link": "https://discord.com",
-      "image": "images/social/discord.svg"
+      "name": "Bluesky",
+      "link": "https://bsky.app/profile/olympus-logic.bsky.social",
+      "image": "/bluesky.svg"
   }
 
 ]
+
+

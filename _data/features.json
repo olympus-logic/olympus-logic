@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Ambrosia as a Service",
+    "description": "Now is the time for eternal productivity",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Golden Fleece",
+    "description": "Protect your treasures better than JSON",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "TitanOS",
+    "description": "Forged on the foundation of time itself",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
