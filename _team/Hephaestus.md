@@ -2,7 +2,7 @@
 title: "Hephaestus"
 image: "team/Hephaestus copy.jpg"
 jobtitle: "Not Listed"
-weight: 5
+weight: 12
 ---
 
 Nothing listed

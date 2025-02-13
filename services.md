@@ -9,4 +9,7 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-This is where the comic will live
+### Introducing Ambrosia
+<img class = 'comic' src='/001-rough.png' />
+
+

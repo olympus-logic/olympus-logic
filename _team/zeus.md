@@ -1,6 +1,5 @@
 ---
 title: "Zeus"
-date: 2018-11-19T10:47:58+10:00
 image: "team/zeus-fixed copy.jpg"
 jobtitle: "Chief Executive Officer"
 promoted: true

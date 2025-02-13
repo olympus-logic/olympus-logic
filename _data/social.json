@@ -5,16 +5,19 @@
     "image": "images/social/github.svg"
   },
   {
-      "name": "Email",
-      "link": "mailto:olympus.logic.global@gmail.com ",
-      "image": "images/social/email.svg"
+    "name": "Email",
+    "link": "mailto:olympus.logic.global@gmail.com ",
+    "image": "images/social/email.svg"
   },
   {
-      "name": "Bluesky",
-      "link": "https://bsky.app/profile/olympus-logic.bsky.social",
-      "image": "/bluesky.svg"
+    "name": "Bluesky",
+    "link": "https://bsky.app/profile/olympus-logic.bsky.social",
+    "image": "/bluesky.svg"
+  },
+
+  {
+    "name": "Instagram",
+    "link": "https://instagram.com/olympus.logic",
+    "image": "images/social/instagram.svg"
   }
-
 ]
-
-
