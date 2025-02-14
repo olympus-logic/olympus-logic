@@ -23,8 +23,9 @@ bodyClass: "page-services"
     {% for service in site.services %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
+          <h2 class="service-title"> Archive </h2>
         <div class="service-content">
-          <h2 class="service-title">
+         <!--  <h2 class="service-title"> -->
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
           <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>

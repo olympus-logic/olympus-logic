@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Olympus Logic
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Olympus Logic is a ground breaking company specializing in innovative solutions that power seamless, scalable digital experiences.
+intro_image: "hero.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Olympus Logic
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Olympus Logic is a ground breaking company specializing in innovative solutions that power seamless, scalable digital experiences.
