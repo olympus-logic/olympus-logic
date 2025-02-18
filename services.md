@@ -10,6 +10,6 @@ intro_image_hide_on_mobile: true
 # Blog
 
 ### Introducing Ambrosia
-<img class = 'comic' src='/001-rough.png' />
+<img class = 'comic' src='/001.svg' />
 
 
