@@ -19,5 +19,6 @@ intro_image_hide_on_mobile: true
 <img class = 'comic' src='/assets/cartoon/001/s1b4.jpg'> <br />
 
 <img class = 'comic' src='/assets/cartoon/001//s1b5.jpg'>
+<hr>
 
 
