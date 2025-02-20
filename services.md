@@ -12,7 +12,7 @@ intro_image_hide_on_mobile: true
 ### Introducing Ambrosia
 <img class = 'comic' src='/assets/cartoon/001/s1b1.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/001/s1b3.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/001/s1b2.jpg'> <br />
 
 <img class = 'comic' src='/assets/cartoon/001/s1b3.jpg'> <br />
 
