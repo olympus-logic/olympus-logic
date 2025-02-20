@@ -10,10 +10,14 @@ intro_image_hide_on_mobile: true
 # Blog
 
 ### Introducing Ambrosia
-<<<<<<< HEAD
-<img class = 'comic' src='/001.svg' />
-=======
-<img class = 'comic' src='/001-rough.png' />
->>>>>>> 618e91c62eb327c11930d08e4f9c985318d7f882
+<img class = 'comic' src='/assets/cartoon/001/s1b1.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/001/s1b3.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/001/s1b3.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/001/s1b4.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/001//s1b5.jpg'>
 
 
