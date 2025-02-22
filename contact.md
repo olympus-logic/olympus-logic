@@ -19,4 +19,4 @@ Have a question or need assistance? Our team is here to help, delivering solutio
 | Saturday  | Closed          |
 -->
 
-<a href='https://github.com/olympus-logic' target="_blank">![GitHub](/gh-sized.png "GitHub")</a>   <a href='https://bsky.app/profile/olympus-logic.bsky.social' target="_blank">![bluesky](/bluesky-sized.png "bluesky")</a>    <a href='https://instagram.com/olympus.logic' target="_blank">![Instagram](/ig-sized.png "Instagrem") </a>
+<a href='https://github.com/olympus-logic/olympus-logic' target="_blank">![GitHub](/assets/socialIcons/gh-sized.png "GitHub")</a>   <a href='https://bsky.app/profile/olympus-logic.bsky.social' target="_blank">![bluesky](/assets/socialIcons/bluesky-sized.png "bluesky")</a>    <a href='https://instagram.com/olympus.logic' target="_blank">![Instagram](/assets/socialIcons/ig-sized.png "Instagrem") </a>

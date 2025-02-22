@@ -2,23 +2,19 @@
 title: Blog
 layout: services
 description: Blog
-#intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
+# intro_image: "images/illustrations/reading.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
 # Blog
 
-### Introducing Ambrosia
+### One Last Commit
+<span class = 'blog'>
+<img class = 'comic' src='/assets/cartoon/002/002-s1.jpg'> <br />
+</span>
 
-<img class = 'comic' src='/assets/cartoon/001/s1b1.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/002/002-s2.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/001/s1b2.jpg'> <br />
-
-<img class = 'comic' src='/assets/cartoon/001/s1b3.jpg'> <br />
-
-<img class = 'comic' src='/assets/cartoon/001/s1b4.jpg'> <br />
-
-<img class = 'comic' src='/assets/cartoon/001/001-s5-censor.jpg'>
-
+<img class = 'comic' src='/assets/cartoon/002/002-s3.jpg'> 
 <hr>
