@@ -11,8 +11,9 @@ intro_image_hide_on_mobile: true
 
 ### One Last Commit
 <span class = 'blog'>
+
+
 <img class = 'comic' src='/assets/cartoon/002/002-s1.jpg'> <br />
-</span>
 
 <img class = 'comic' src='/assets/cartoon/002/002-s2.jpg'> <br />
 
