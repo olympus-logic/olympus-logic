@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Need new title
+### Make it Happen
 <span class = 'blog'>
 
 
@@ -19,3 +19,5 @@ intro_image_hide_on_mobile: true
 
 <img class = 'comic' src='/assets/cartoon/003/003-s3.jpg'> 
 <hr>
+
+
