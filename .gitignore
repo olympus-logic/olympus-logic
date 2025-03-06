@@ -24,3 +24,6 @@ Thumbs.db
 # Underconstruction files
 /__comic-working
 /__comic
+
+# Local helper scripts
+commit_changes.sh
