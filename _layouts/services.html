@@ -29,48 +29,7 @@ bodyClass: "page-services"
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
           <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
-          <!-- Adding this from chatGPT
-           Doubtful it will work -->
-           {% assign services = site.services | sort: 'order' %}
-           {% for service in services %}
-             {% if service.url == page.url %}
-               {% assign index = forloop.index0 %}
-             {% endif %}
-           {% endfor %}
-           
-           {% assign prev_index = index | minus: 1 %}
-           {% assign next_index = index | plus: 1 %}
-           
-           <div class="service-navigation">
-             {% if prev_index >= 0 %}
-               <a class="prev-service" href="{{ services[prev_index].url }}">&larr; Previous: {{ services[prev_index].title }}</a>
-             {% endif %}
-             
-             {% if next_index < services.size %}
-               <a class="next-service" href="{{ services[next_index].url }}">Next: {{ services[next_index].title }} &rarr;</a>
-             {% endif %}
-           </div>
-           
-           <style>
-             .service-navigation {
-               display: flex;
-               justify-content: space-between;
-               margin-top: 40px;
-               padding: 20px 0;
-               border-top: 1px solid #ddd;
-             }
-             .prev-service, .next-service {
-               text-decoration: none;
-               font-weight: bold;
-               color: #0073e6;
-             }
-             .prev-service:hover, .next-service:hover {
-               text-decoration: underline;
-             }
-           </style>
-           
-
-           <!--end of chatGPT code-->
+         
         </div>
       </div>
     </div>
