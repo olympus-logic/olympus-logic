@@ -20,16 +20,7 @@ intro_image_hide_on_mobile: true
 <img class = 'comic' src='/assets/cartoon/004/004-s2.jpg'> <br />
 
 <img class = 'comic' src='/assets/cartoon/004/004-s3.jpg'> 
-=======
-### Make it Happen
-<span class = 'blog'>
 
-
-<img class = 'comic' src='/assets/cartoon/003/003-s1.jpg'> <br />
-
-<img class = 'comic' src='/assets/cartoon/003/003-s2.jpg'> <br />
-
-<img class = 'comic' src='/assets/cartoon/003/003-s3.jpg'> 
 
 <hr>
 
