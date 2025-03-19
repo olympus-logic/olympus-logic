@@ -9,6 +9,53 @@ bodyClass: "page-service"
       <div class="service service-single">
         <h1 class="title">{{page.title}}</h1>
         <div class="content">{{content}}</div>
+        <!-- START OF TEST-->
+        <script>
+          document.addEventListener("DOMContentLoaded", function () {
+            // Extract the current service number from the URL
+            const urlParts = window.location.pathname.split("/");
+            const currentService = parseInt(urlParts[urlParts.length - 1]); // Assuming the service number is at the end
+        
+            if (!isNaN(currentService)) {
+              const prevService = currentService - 1;
+              const nextService = currentService + 1;
+        
+              let navigationHTML = '<div class="service-navigation">';
+              
+              if (prevService > 0) {
+                navigationHTML += `<a href="/service/${prevService}" class="nav-button">← Previous Service</a>`;
+              }
+        
+              // Adjust the nextService check if there is a known maximum number of services
+              navigationHTML += `<a href="/service/${nextService}" class="nav-button">Next Service →</a>`;
+        
+              navigationHTML += "</div>";
+        
+              document.getElementById("service-navigation").innerHTML = navigationHTML;
+            }
+          });
+        </script>
+        
+        <style>
+          .service-navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+          }
+          .nav-button {
+            text-decoration: none;
+            padding: 10px 15px;
+            background: #007bff;
+            color: white;
+            border-radius: 5px;
+          }
+          .nav-button:hover {
+            background: #0056b3;
+          }
+        </style>
+        
+        <div id="service-navigation"></div>
+<!--END OF TEST-->        
       </div>
     </div>
   </div>
