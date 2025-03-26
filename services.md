@@ -11,15 +11,17 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Apollo's Humble Brag
+### All Systems Loking Good
 <span class = 'blog'>
 
 
-<img class = 'comic' src='/assets/cartoon/005/005-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/006/006-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/005/005-02.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/006/006-02.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/005/005-03.jpg'> 
+<img class = 'comic' src='/assets/cartoon/006/006-03.jpg'>  <br />
+
+<img class = 'comic' src='/assets/cartoon/006/006-004.jpg'> 
 
 
 <hr>
