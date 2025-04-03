@@ -11,17 +11,17 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### All Systems Loking Good
+### U Up?
 <span class = 'blog'>
 
 
-<img class = 'comic' src='/assets/cartoon/006/006-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/007/007-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/006/006-02.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/007/007-02.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/006/006-03.jpg'>  <br />
+<img class = 'comic' src='/assets/cartoon/007/007-003.jpg'>  <br />
 
-<img class = 'comic' src='/assets/cartoon/006/006-004.jpg'> 
+<img class = 'comic' src='/assets/cartoon/007/007-004.jpg'> 
 
 <hr>
 
