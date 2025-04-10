@@ -11,17 +11,16 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### U Up?
+### Fix the Problem
 <span class = 'blog'>
 
 
-<img class = 'comic' src='/assets/cartoon/007/007-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/008/008-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/007/007-02.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/008/008-02.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/007/007-003.jpg'>  <br />
+<img class = 'comic' src='/assets/cartoon/008/008-03.jpg'>  
 
-<img class = 'comic' src='/assets/cartoon/007/007-004.jpg'> 
 
 <hr>
 
