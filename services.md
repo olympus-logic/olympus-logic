@@ -11,6 +11,7 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
+### "Flow Like Nectar
 ### Birth of Laurel Labs
 <span class = 'blog'>
 
@@ -18,7 +19,10 @@ intro_image_hide_on_mobile: true
 
 <img class = 'comic' src='/assets/cartoon/011/011-02.jpg'>  <br />
 
+<img class = 'comic' src='/assets/cartoon/010/010-03.jpg'> <br />
 <img class = 'comic' src='/assets/cartoon/011/011-03.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/010/010-04.jpg'>
 
 <img class = 'comic' src='/assets/cartoon/011/011-04.jpg'>
 
