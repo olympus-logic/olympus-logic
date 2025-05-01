@@ -11,7 +11,6 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### "Flow Like Nectar
 ### Birth of Laurel Labs
 <span class = 'blog'>
 
