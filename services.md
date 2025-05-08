@@ -11,20 +11,16 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Birth of Laurel Labs
+### Being Wronged
 <span class = 'blog'>
 
-<img class = 'comic' src='/assets/cartoon/011/011-01.jpg'>
+<img class = 'comic' src='/assets/cartoon/012/012-01.jpg'>
 
-<img class = 'comic' src='/assets/cartoon/011/011-02.jpg'>  <br />
+<img class = 'comic' src='/assets/cartoon/012/012-02.jpg'>  <br />
 
-<img class = 'comic' src='/assets/cartoon/010/010-03.jpg'> <br />
-<img class = 'comic' src='/assets/cartoon/011/011-03.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/012/012-003.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/010/010-04.jpg'>
-
-<img class = 'comic' src='/assets/cartoon/011/011-04.jpg'>
-
+<img class = 'comic' src='/assets/cartoon/012/012-04.jpg'>
 <hr>
 
 
