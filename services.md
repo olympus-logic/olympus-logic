@@ -11,11 +11,8 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-<<<<<<< HEAD
+
 ### Hera's Eyes
-=======
-### Being Wronged
->>>>>>> d2948e0aad8e1411681e37af2b66345a4ab032cb
 <span class = 'blog'>
 <img class = 'comic' src='/assets/cartoon/013/013-01.jpg'> <br />
 
