@@ -21,6 +21,5 @@ intro_image_hide_on_mobile: true
 <img class = 'comic' src='/assets/cartoon/014/014-03.jpg'> 
 
 
-<hr>
 
 
