@@ -11,16 +11,14 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### The Sun
+### Time to Get to Work
 
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/017/017-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/018/018-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/017/017-02.jpg'>  <br />
+<img class = 'comic' src='/assets/cartoon/018/018-02.jpg'>  <br />
 
-<img class = 'comic' src='/assets/cartoon/017/017-03.jpg'> <br />
-
-<img class = 'comic' src='/assets/cartoon/017/017-04.jpg'>  
+<img class = 'comic' src='/assets/cartoon/018/018-03.jpg'> 
 
 
 
