@@ -15,9 +15,12 @@ intro_image_hide_on_mobile: true
 
 <span class = 'blog'>
 <img class = 'comic' src='/assets/cartoon/021/021-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/021/021-01.jpg'> <br />
 
 <img class = 'comic' src='/assets/cartoon/021/021-02.jpg'>  <br />
+<img class = 'comic' src='/assets/cartoon/021/021-02.jpg'>  <br />
 
+<img class = 'comic' src='/assets/cartoon/021/021-03.jpg'> 
 <img class = 'comic' src='/assets/cartoon/021/021-03.jpg'> 
 
 
