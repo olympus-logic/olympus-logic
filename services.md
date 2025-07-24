@@ -11,13 +11,15 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Arachne's Spider
+### Hermeneutics and Hallucinations
 
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/022/022-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/023/023-1.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/022/022-02.jpg'>  <br />
+<img class = 'comic' src='/assets/cartoon/023/023-2.jpg'>  <br />
 
-<img class = 'comic' src='/assets/cartoon/022/022-03.jpg'> 
+<img class = 'comic' src='/assets/cartoon/023/023-3.jpg'>  <br />
+
+<img class = 'comic' src='/assets/cartoon/023/024-4.jpg'> 
 
 
