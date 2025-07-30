@@ -11,15 +11,14 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Hermeneutics and Hallucinations
+### Guess What Won’t Get Corrected
 
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/023/023-1.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/024/024-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/023/023-2.jpg'>  <br />
+<img class = 'comic' src='/assets/cartoon/024/024-02.jpg'>  <br />
 
-<img class = 'comic' src='/assets/cartoon/023/023-3.jpg'>  <br />
+<img class = 'comic' src='/assets/cartoon/024/024-03.jpg'>  <br />
 
-<img class = 'comic' src='/assets/cartoon/023/024-4.jpg'> 
-
+<img class = 'comic' src='/assets/cartoon/024/024-04.jpg'> 
 
