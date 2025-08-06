@@ -11,14 +11,7 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Guess What Won’t Get Corrected
+### Olympus Logic: Half Sick, Half Strategic
 
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/024/024-01.jpg'> <br />
-
-<img class = 'comic' src='/assets/cartoon/024/024-02.jpg'>  <br />
-
-<img class = 'comic' src='/assets/cartoon/024/024-03.jpg'>  <br />
-
-<img class = 'comic' src='/assets/cartoon/024/024-04.jpg'> 
-
+<img class = 'comic' src='/assets/cartoon/025/025-01.jpg'>
