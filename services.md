@@ -11,7 +11,12 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Olympus Logic: Half Sick, Half Strategic
-
+### Always Get the Money in Advance
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/025/025-01.jpg'>
+<img class = 'comic' src='/assets/cartoon/026/026-01.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/026/026-02.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/026/026-03.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/026/026-04.jpg'> 
