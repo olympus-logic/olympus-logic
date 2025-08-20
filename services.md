@@ -11,12 +11,10 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Always Get the Money in Advance
+### The Whisper Network
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/026/026-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/027/027-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/026/026-02.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/027/027-02.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/026/026-03.jpg'> <br />
-
-<img class = 'comic' src='/assets/cartoon/026/026-04.jpg'> 
+<img class = 'comic' src='/assets/cartoon/027/27-03.jpg'> \
