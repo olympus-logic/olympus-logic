@@ -11,8 +11,11 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Something Different All Together
+### This Wretched Place
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/028/028-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/029/029-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/028/028-02.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/029/29-02.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/029/29-03.jpg'>
+
