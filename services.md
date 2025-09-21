@@ -11,11 +11,11 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### This Wretched Place
+### That’s a Wisdom Headache
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/029/029-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/030/030-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/029/29-02.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/030/030-02.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/029/29-03.jpg'>
+<img class = 'comic' src='/assets/cartoon/030/030-03.jpg'>
 
