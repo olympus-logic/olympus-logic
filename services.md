@@ -11,11 +11,13 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### That’s a Wisdom Headache
+### Already Mine
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/030/030-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/031/031-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/030/030-02.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/031/031-02.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/030/030-03.jpg'>
+<img class = 'comic' src='/assets/cartoon/031/031-03.jpg'> <br />
+
+<img class = 'comic' src='/assets/cartoon/031/031-04.jpg'>
 
