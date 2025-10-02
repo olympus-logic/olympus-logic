@@ -11,13 +11,12 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### Already Mine
+### Critical Blocker 
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/031/031-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/032/032-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/031/031-02.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/032/032-02.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/031/031-03.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/032/032-03.jpg'> 
 
-<img class = 'comic' src='/assets/cartoon/031/031-04.jpg'>
 
