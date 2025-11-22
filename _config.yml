@@ -1,3 +1,7 @@
+# Required for GitHub Pages builds inside GitHub Actions
+repository: olympus-logic/olympus-logic
+url: "https://olympuslogic.com"  # or change to your GitHub Pages URL if needed
+
 baseurl: '/'
 permalink: pretty
 title: 'Olympus Logic'
@@ -33,19 +37,4 @@ defaults:
       layout: "team"
 
 sass:
-  style: compressed # possible values: nested expanded compact compressed
-
-plugins:
-  - jekyll-environment-variables
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - LICENSE.md
-  - LICENSE
-  - README.md
+  style: compresse
