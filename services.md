@@ -11,18 +11,11 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-### An Important Message from Olympus Logic
+### An owl and a Name
 <span class = 'blog'>
-<img class = 'comic' src='/assets/cartoon/036/036-01.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/037/37-01.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/036/36-02.jpg'> <br />
+<img class = 'comic' src='/assets/cartoon/037/37-02.jpg'> <br />
 
-<img class = 'comic' src='/assets/cartoon/036/36-03.jpg'>  <br />
+<img class = 'comic' src='/assets/cartoon/037/37-03.jpg'>  <br />
 
-<img class = 'comic' src='/assets/cartoon/036/36-04.jpg'>  <br />
-
-<img class = 'comic' src='/assets/cartoon/036/36-05.jpg'> <br>
-
-<img class = 'comic' src='/assets/cartoon/036/36-06.jpg'>  <br />
-
-<img class = 'comic' src='/assets/cartoon/036/36-07.jpg'>  
